@@ -5,19 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josepe20" alt="josepe20" /></a> </p>
 
-- 🔭 I’m currently working on [Freelance and Own projects](josechay.com)
+- 🔭 I’m currently working on [MultiGroup](https://multigroup.com/)
 
 - 🌱 I’m currently learning **Docker, React Native and AWS platform**
 
 - 👨‍💻 Portfolio and Social Media [https://linktr.ee/josechay_20](https://linktr.ee/josechay_20)
 
-- 📝 I regularly write articles on LinkeIn [https://www.linkedin.com/in/jose-chay-a59873242/](https://www.linkedin.com/in/jose-chay-a59873242/)
-
 - 💬 Ask me about **Python and Javascript**
 
 - 📫 How to reach me **chepechay16@gmail.com**
-
-- 📄 This is my Resume [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josepe20" alt="josepe20" /></a> </p>
 
-- 🔭 I’m currently working on [MultiGroup](https://multigroup.com/)
+- 🔭 I’m currently working on [Telus Digital](https://www.telusdigital.com/about/locations/guatemala)
 
 - 🌱 I’m currently learning **Docker, React Native and AWS platform**
 
